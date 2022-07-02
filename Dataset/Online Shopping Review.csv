@@ -799,3 +799,185 @@ Timestamp,Customer Name,Age,Gender,How did you learn about online shopping?,For 
 6/23/2022 18:31:49,Tanisa Santa,37,Female,Newspaper,Me,No,Buying Products,Overall,Very dissatisfied,No,Neutral,5,Maybe,5,5
 6/23/2022 18:32:31,Fariya Ahmed ,26,Female,Search Engine,Boss,No,Other,Shipping options,Satisfied,No,Safe,5,Yes,5,5
 6/23/2022 18:33:07,Irin Pinky,40,Female,Social Media,Boss,Maybe,Buying Products,Payment experience,Satisfied,Maybe,Safe,5,No,5,5
+6/24/2022 20:25:24,Ratul dey,25,Male,Social Media,Parent,Yes,Buying Products,Product information,Satisfied,Maybe,Safe,5,Yes,4,5
+6/24/2022 20:26:05,Biddiya Sinha ,22,Female,Search Engine,Colleague,Yes,Product Information,Product catalog,Very satisfied,Maybe,Safe,5,Maybe,3,4
+6/24/2022 20:26:52,Dev paul,27,Male,Friend,Colleague,Maybe,About Company,Payment experience,Dissatisfied,Yes,Safe,5,Maybe,4,3
+6/24/2022 20:32:29,Konika paul,23,Female,Social Media,Colleague,Maybe,Product Information,Pricing,Satisfied,Yes,Safe,3,Maybe,2,4
+6/24/2022 20:34:16,Durga dey,25,Female,Search Engine,Parent,Yes,Buying Products,Product catalog,Satisfied,Yes,Very Safe,5,Maybe,4,5
+6/24/2022 20:38:48,Nur alam Hossain ,25,Male,Search Engine,Colleague,Maybe,About Company,Online help,Neutral,No,Not Safe,2,Maybe,3,2
+6/24/2022 20:41:28,Mukti palit,24,Female,Search Engine,Friend,Yes,Product Information,Product information,Satisfied,Yes,Safe,5,Maybe,4,5
+6/24/2022 20:42:17,Debasree Roy,22,Female,Social Media,Parent,Maybe,Buying Products,Pricing,Very satisfied,Maybe,Very Safe,5,Yes,5,3
+6/24/2022 20:44:08,Aritra Chowdhury,24,Female,Search Engine,Friend,Yes,Buying Products,Shipping options,Very satisfied,Maybe,Safe,4,Maybe,5,4
+6/24/2022 20:45:57,Onurada Chowdhury ,21,Female,Search Engine,Boss,Maybe,Product Information,Shipping options,Neutral,Maybe,Safe,4,Maybe,3,4
+6/24/2022 20:47:08,Popy chakma,19,Female,Social Media,Other,Yes,About Company,Shipping options,Dissatisfied,Maybe,Neutral,3,No,2,3
+6/24/2022 20:48:22,Amina Tarannum,23,Female,Social Media,Other,Maybe,Buying Products,Pricing,Neutral,No,Not Safe,3,No,3,2
+6/24/2022 21:03:29,Bithi mitra,24,Female,Search Engine,Colleague,Maybe,Product Information,Product information,Satisfied,No,Neutral,4,Maybe,4,3
+6/24/2022 22:12:47,Taznin nahar,20,Female,Social Media,Parent,Maybe,Contact Information,Pricing,Neutral,Maybe,Safe,3,Maybe,4,3
+6/26/2022 13:55:41,pallabi ghose,32,Female,Social Media,Friend,Yes,Product Information,Product catalog,Very satisfied,Yes,Safe,4,Yes,5,4
+6/26/2022 13:56:22,Raj chakraborty ,23,Male,TV,Parent,Maybe,Buying Products,Product information,Satisfied,Maybe,Neutral,5,Yes,5,5
+6/26/2022 13:56:56,shampa chakraborty ,34,Female,Search Engine,Boss,No,Contact Information,Pricing,Neutral,Yes,Not Safe,5,Yes,4,5
+6/26/2022 13:57:38,pilu chakraborty ,36,Male,Other,Colleague,Yes,Contact Information,Online help,Very satisfied,Maybe,Safe,3,No,4,4
+6/26/2022 13:58:18,indrajit datta,48,Male,Newspaper,Me,Yes,Buying Products,Payment experience,Dissatisfied,Yes,Neutral,3,Maybe,3,3
+6/26/2022 13:59:35,indranil datta,22,Male,Friend,Parent,Yes,Buying Products,Product catalog,Satisfied,Yes,Safe,4,Maybe,5,5
+6/26/2022 14:00:24,soma datta,42,Female,TV,Colleague,Yes,Other,Overall,Satisfied,Maybe,Safe,5,Yes,3,4
+6/26/2022 14:01:15,prema bhattacharjee,27,Female,Other,Other,Maybe,Contact Information,Pricing,Neutral,No,Neutral,3,No,4,3
+6/26/2022 14:02:11,Orin kumar,28,Male,Friend,Parent,Yes,Buying Products,Payment experience,Very satisfied,Yes,Very Safe,2,Maybe,4,4
+6/26/2022 14:02:55,olevia gomes,23,Female,Friend,Boss,Yes,Contact Information,Online help,Very dissatisfied,Maybe,Very Safe,2,No,5,3
+6/26/2022 14:03:30,elin pop,32,Male,Other,Colleague,Maybe,Product Information,Shipping options,Very satisfied,Maybe,Neutral,4,Maybe,4,4
+6/26/2022 14:04:05,priyotosh dhar,33,Male,Social Media,Parent,No,Product Information,Product catalog,Very dissatisfied,Maybe,Very Safe,4,Yes,5,5
+6/26/2022 14:05:07,mritunjoy bhattacharjee,26,Male,Other,Me,Yes,Other,Online help,Satisfied,Maybe,Safe,4,No,4,3
+6/26/2022 14:05:43,prattulekha dey,27,Female,Friend,Parent,Maybe,Product Information,Online help,Satisfied,Maybe,Very Safe,2,No,4,4
+6/27/2022 16:40:20,Taeef Kuasha,30,Male,TV,Me,No,About Company,Payment experience,Satisfied,No,Neutral,4,No,4,4
+6/27/2022 16:41:01,Iqbal Hasan ,45,Male,Search Engine,Other,No,Buying Products,Pricing,Neutral,No,Safe,2,No,3,2
+6/27/2022 16:41:49,Tania Sultana Lopa,23,Female,Newspaper,Boss,No,Contact Information,Online help,Dissatisfied,No,Safe,2,No,4,2
+6/27/2022 16:42:36,Keya moni,32,Female,Other,Boss,No,Buying Products,Overall,Very satisfied,No,Very Safe,5,Yes,4,5
+6/27/2022 16:43:21,Taposhi Amin,43,Female,Newspaper,Me,Maybe,Product Information,Payment experience,Satisfied,Maybe,Safe,4,Yes,5,4
+6/27/2022 16:44:17,Hazera Priyanka,19,Female,Friend,Parent,No,About Company,Online help,Neutral,Yes,Neutral,4,Yes,5,3
+6/27/2022 16:45:03,Rubaiya Jannat,25,Female,Search Engine,Boss,Yes,Contact Information,Product information,Very satisfied,Yes,Safe,5,Yes,4,3
+6/27/2022 16:45:50,Pritha Saha,35,Female,Newspaper,Colleague,Maybe,Buying Products,Shipping options,Dissatisfied,No,Not Safe,4,No,3,4
+6/27/2022 16:46:31,Razia Ferdous,52,Female,TV,Me,No,Buying Products,Pricing,Satisfied,Yes,Safe,4,No,3,1
+6/27/2022 16:47:27,Nabila Sultana,40,Female,Newspaper,Colleague,Yes,About Company,Online help,Neutral,No,Neutral,5,Yes,5,3
+6/27/2022 16:48:20,Prantik Dey,32,Male,Search Engine,Boss,No,Contact Information,Shipping options,Dissatisfied,Maybe,Safe,4,No,4,3
+6/27/2022 16:49:07,Juwel Rana,38,Male,Friend,Colleague,No,Buying Products,Overall,Very satisfied,Yes,Safe,5,No,5,4
+6/27/2022 16:49:52,Pinky Akter,21,Female,Friend,Parent,No,Other,Pricing,Satisfied,Maybe,Not Safe,5,Yes,5,4
+6/27/2022 16:50:33,Safa Noor,17,Female,Social Media,Parent,Maybe,About Company,Product catalog,Very satisfied,Maybe,Neutral,4,Maybe,4,3
+6/27/2022 16:51:23,Mrinmoei Mou,35,Female,TV,Colleague,Yes,Contact Information,Shipping options,Dissatisfied,Yes,Safe,5,Yes,5,5
+6/27/2022 16:52:08,Rima Kaysar Sumi,20,Female,Other,Parent,Maybe,Product Information,Overall,Neutral,Yes,Neutral,5,Yes,5,3
+6/27/2022 16:53:31,Saba Chowdhury ,32,Female,Newspaper,Boss,No,Buying Products,Shipping options,Satisfied,No,Not Safe,3,Yes,5,5
+6/27/2022 16:54:18,Arohi Jannat,19,Female,Other,Friend,No,Product Information,Pricing,Neutral,No,Safe,5,Yes,4,5
+6/27/2022 16:55:15,Fatima Hafiz,37,Female,Search Engine,Boss,Maybe,About Company,Payment experience,Satisfied,No,Safe,5,Yes,5,4
+6/27/2022 16:56:08,Sheoli Sarker ,50,Female,TV,Me,No,Other,Online help,Neutral,Yes,Safe,5,Yes,5,3
+6/27/2022 16:57:13,Shakila Akter,29,Female,Newspaper,Friend,Yes,About Company,Pricing,Satisfied,No,Safe,4,No,4,3
+6/27/2022 16:58:32,Rana Hamid,24,Male,Search Engine,Colleague,No,Buying Products,Product information,Very satisfied,Yes,Very Safe,5,No,3,1
+6/27/2022 16:59:48,Kohenur Akter,21,Female,TV,Parent,No,About Company,Online help,Neutral,No,Safe,4,Maybe,3,4
+6/27/2022 17:00:34,Kamal Uddin ,36,Male,Newspaper,Boss,Maybe,Buying Products,Overall,Neutral,Yes,Very Safe,4,No,3,1
+6/27/2022 17:01:26,Rima Aslam,52,Female,Social Media,Me,Yes,Product Information,Payment experience,Satisfied,Maybe,Very Safe,5,Yes,5,5
+6/27/2022 17:02:47,Salvee Hossain ,16,Female,Friend,Parent,Maybe,Other,Shipping options,Very satisfied,No,Not Safe,5,No,4,3
+6/27/2022 17:03:57,Susmita Ghosh,24,Female,Search Engine,Me,No,Contact Information,Product information,Very dissatisfied,No,Not Safe,4,No,3,4
+6/27/2022 17:04:49,Nargis Sultana ,50,Female,TV,Friend,Yes,About Company,Shipping options,Neutral,No,Neutral,4,Yes,5,4
+6/27/2022 17:06:27,Sanjida Nipa,37,Female,Newspaper,Colleague,No,Product Information,Online help,Satisfied,No,Safe,4,Yes,5,4
+6/27/2022 17:07:12,Tanzida Eva,18,Female,Friend,Parent,No,Other,Shipping options,Very satisfied,Maybe,Safe,4,No,5,3
+6/27/2022 17:08:11,Shekh Maria,46,Female,Newspaper,Me,Maybe,Buying Products,Overall,Very dissatisfied,Maybe,Neutral,3,No,5,5
+6/27/2022 17:09:08,Swapna Faria,16,Female,Friend,Other,Yes,About Company,Online help,Satisfied,Yes,Safe,5,Yes,5,3
+6/27/2022 17:13:35,Chailapru Marma,23,Male,Search Engine,Colleague,No,Other,Product catalog,Satisfied,Yes,Not Safe,5,Yes,5,2
+6/27/2022 17:14:22,Even Chakma ,32,Male,Newspaper,Boss,Maybe,Contact Information,Payment experience,Dissatisfied,Yes,Neutral,4,No,5,1
+6/27/2022 17:15:25,Halima Akter,30,Female,TV,Colleague,Maybe,About Company,Pricing,Very satisfied,No,Very Safe,5,Yes,3,5
+6/27/2022 17:16:16,Tori Chowdhury ,43,Female,Friend,Me,No,Product Information,Overall,Satisfied,Yes,Safe,5,No,3,2
+6/27/2022 17:17:17,Antora Akter,22,Female,Search Engine,Friend,No,Buying Products,Online help,Very satisfied,Yes,Very Safe,3,Yes,5,1
+6/27/2022 17:18:53,Zinat Fatema,30,Female,Newspaper,Boss,Yes,Contact Information,Product information,Neutral,No,Not Safe,4,No,3,4
+6/27/2022 17:19:58,Hosna Ara Tonny,28,Female,Social Media,Parent,No,Other,Product catalog,Satisfied,Maybe,Very Unsafe,4,Yes,5,2
+6/27/2022 17:21:18,Apon Mollick ,39,Male,Other,Me,No,About Company,Payment experience,Dissatisfied,No,Very Safe,5,Maybe,5,4
+6/27/2022 17:22:21,Meghla Rahman ,19,Female,Friend,Parent,Maybe,Buying Products,Pricing,Very satisfied,Yes,Neutral,5,Yes,4,3
+6/27/2022 17:25:29,Lipi Sarker ,25,Female,TV,Friend,Yes,About Company,Shipping options,Neutral,No,Very Safe,5,Yes,4,4
+6/27/2022 17:26:22,Ayaan Ahmed ,34,Male,Search Engine,Boss,No,Buying Products,Overall,Satisfied,Yes,Safe,2,Yes,4,5
+6/27/2022 17:27:28,Kanij Fatema Nadira,20,Female,Friend,Me,Maybe,Contact Information,Payment experience,Very dissatisfied,No,Very Unsafe,5,Yes,2,1
+6/27/2022 17:28:55,Reshma Akter,31,Female,Other,Colleague,Yes,Product Information,Shipping options,Neutral,No,Very Safe,4,No,3,1
+6/27/2022 17:46:28,Samina Akter,44,Female,Newspaper,Me,No,About Company,Overall,Satisfied,Maybe,Safe,5,No,4,3
+6/27/2022 17:47:22,Mitu Akter,27,Female,TV,Colleague,Yes,Product Information,Payment experience,Very satisfied,No,Very Safe,3,No,2,5
+6/27/2022 17:48:22,Ruhi Yeasmin ,33,Female,Search Engine,Boss,No,About Company,Pricing,Dissatisfied,Yes,Neutral,2,Yes,4,3
+6/27/2022 17:49:36,Jannatul Maya,20,Female,Friend,Other,Maybe,Contact Information,Product information,Satisfied,No,Very Safe,4,No,3,1
+6/27/2022 17:50:40,Nasima Akter,23,Female,Social Media,Parent,No,Buying Products,Online help,Very satisfied,No,Safe,4,Yes,4,3
+6/27/2022 17:51:42,Neha Dutta ,34,Female,Newspaper,Boss,No,About Company,Shipping options,Dissatisfied,No,Not Safe,5,Yes,5,5
+6/27/2022 18:03:48,Md Yousuf Ali,24,Male,Friend,Parent,Maybe,Buying Products,Product information,Dissatisfied,Maybe,Safe,4,No,4,4
+6/27/2022 18:04:37,Anzum Shifa,18,Female,Other,Me,No,About Company,Payment experience,Neutral,No,Very Unsafe,5,No,5,5
+6/27/2022 18:05:25,Poly Roy,30,Female,Search Engine,Boss,No,Other,Shipping options,Very satisfied,Maybe,Neutral,4,No,3,2
+6/27/2022 18:06:14,Aminul Islam ,52,Male,Newspaper,Me,Maybe,Contact Information,Pricing,Satisfied,No,Very Safe,3,No,3,5
+6/27/2022 18:07:04,Hasnat Jahan,27,Female,Social Media,Parent,Maybe,Buying Products,Online help,Very satisfied,No,Neutral,2,No,2,4
+6/27/2022 18:07:50,Ogniva Chowdhury ,36,Female,TV,Boss,No,Other,Shipping options,Very dissatisfied,No,Very Unsafe,5,Yes,4,2
+6/27/2022 18:08:37,Umme Zarah,15,Female,Friend,Parent,Maybe,About Company,Online help,Neutral,Maybe,Neutral,4,No,2,5
+6/27/2022 18:09:28,Helena Akter,23,Female,Newspaper,Boss,No,Contact Information,Shipping options,Satisfied,Yes,Not Safe,3,Maybe,4,5
+6/27/2022 18:10:18,Prothoma Das,27,Female,Search Engine,Colleague,Yes,Product Information,Product catalog,Very satisfied,No,Neutral,4,Yes,4,3
+6/27/2022 18:11:02,Tasnim Ahmed ,46,Male,Newspaper,Other,No,Buying Products,Pricing,Neutral,Maybe,Not Safe,5,Yes,5,5
+6/27/2022 18:11:55,Sotabdi Sobnom,30,Female,Search Engine,Boss,Maybe,Contact Information,Payment experience,Very satisfied,Maybe,Not Safe,5,Yes,4,5
+6/27/2022 18:12:46,Monisha Hasan ,24,Female,TV,Colleague,No,Product Information,Shipping options,Dissatisfied,Yes,Very Unsafe,5,Yes,4,3
+6/27/2022 18:13:42,Radia Afrin,32,Female,Friend,Me,Maybe,Contact Information,Online help,Satisfied,Yes,Very Safe,5,Yes,5,5
+6/27/2022 18:14:33,Sindralla Papry,20,Female,Social Media,Parent,No,Product Information,Overall,Very satisfied,Yes,Very Safe,5,Yes,4,3
+6/27/2022 18:15:18,Mahabuba Antora,36,Female,Other,Boss,Yes,About Company,Shipping options,Neutral,Yes,Neutral,5,Yes,4,1
+6/27/2022 18:16:04,Farzana Antora,17,Female,Newspaper,Colleague,No,Other,Pricing,Very satisfied,No,Neutral,3,No,5,3
+6/27/2022 18:16:53,Kamrun Sumi,28,Female,Friend,Parent,No,Buying Products,Online help,Neutral,Yes,Very Safe,5,No,4,5
+6/27/2022 18:17:39,Sabina Yeasmin ,34,Female,Search Engine,Me,Yes,Product Information,Product catalog,Satisfied,No,Safe,5,Yes,4,5
+6/27/2022 18:18:27,Sakila Akter,26,Female,Search Engine,Boss,No,About Company,Shipping options,Very satisfied,No,Very Safe,5,No,3,4
+6/27/2022 18:19:13,Jannatul Ferdous ,30,Female,Newspaper,Colleague,Yes,Contact Information,Overall,Dissatisfied,Yes,Very Safe,5,No,3,5
+6/27/2022 18:19:55,Joysree Rani,22,Female,Social Media,Parent,No,Other,Payment experience,Satisfied,Yes,Neutral,3,No,3,2
+6/28/2022 20:13:48,Nafuja islam,22,Female,Social Media,Friend,Maybe,Buying Products,Pricing,Satisfied,Maybe,Safe,5,Maybe,4,3
+6/28/2022 20:16:34,Suraiya akter,21,Female,Search Engine,Other,Maybe,About Company,Shipping options,Neutral,No,Neutral,3,Yes,4,2
+6/28/2022 20:19:45,Mariya nur,20,Female,Social Media,Colleague,Yes,Buying Products,Payment experience,Satisfied,Yes,Safe,4,Maybe,5,4
+6/28/2022 20:20:56,Sin Ahmed ,25,Male,Newspaper,Parent,Maybe,Product Information,Pricing,Satisfied,Maybe,Very Safe,5,Yes,4,5
+6/28/2022 20:22:31,Kona nur,23,Female,Search Engine,Other,Maybe,About Company,Pricing,Neutral,No,Neutral,3,Maybe,3,2
+6/28/2022 20:27:12,Mou chakma,19,Female,Friend,Friend,Yes,Product Information,Shipping options,Satisfied,Yes,Very Safe,5,Maybe,3,4
+6/29/2022 20:40:41,Shilpi barmon,20,Female,Search Engine,Friend,Yes,Product Information,Product catalog,Very satisfied,Maybe,Very Safe,5,Yes,4,5
+6/29/2022 20:41:41,Shilpi barmon,20,Female,Search Engine,Friend,Yes,Product Information,Product information,Satisfied,Yes,Safe,5,Yes,4,5
+6/29/2022 20:52:43,Sumi biswas,23,Female,Search Engine,Parent,Maybe,Contact Information,Payment experience,Neutral,No,Not Safe,3,No,3,2
+6/29/2022 20:53:28,Sumi biswas,20,Female,Search Engine,Other,No,About Company,Pricing,Neutral,No,Safe,4,Maybe,3,2
+7/2/2022 15:45:14,Md Samsul Alom Mazumder,19,Male,Social Media,Parent,No,Buying Products,Product catalog,Very satisfied,Yes,Safe,5,Yes,5,5
+7/2/2022 15:45:40,Md Osman,33,Male,Newspaper,Friend,No,Contact Information,Shipping options,Very satisfied,No,Not Safe,4,Yes,5,5
+7/2/2022 15:46:05,Mithun Kumar,44,Male,Social Media,Boss,Maybe,Other,Product catalog,Very satisfied,Maybe,Safe,5,Yes,5,5
+7/2/2022 15:46:31, Abdullah Hel Baki,28,Male,Newspaper,Boss,Yes,Product Information,Payment experience,Very satisfied,Maybe,Very Safe,4,Yes,4,5
+7/2/2022 15:46:57,Sahidur Rahaman Tusar,45,Male,Social Media,Me,Yes,Buying Products,Product catalog,Very satisfied,Yes,Safe,5,Yes,5,5
+7/2/2022 15:47:22,Shamsuzzaman Milon,48,Male,Newspaper,Me,Yes,Product Information,Product catalog,Very dissatisfied,Yes,Very Safe,5,Yes,5,5
+7/2/2022 15:47:51,Adnan Mim,56,Male,Search Engine,Me,Yes,Contact Information,Payment experience,Dissatisfied,Yes,Very Safe,5,Yes,5,5
+7/2/2022 15:48:47,Md Rakib Hossen Hawlader,36,Male,Newspaper,Friend,Maybe,Product Information,Product catalog,Very satisfied,Maybe,Neutral,4,Maybe,5,5
+7/2/2022 15:49:13,Tamim Hossain,47,Male,Friend,Me,Yes,Product Information,Product information,Very satisfied,Yes,Safe,5,Yes,5,5
+7/2/2022 15:49:38,Murshalin Ali,23,Male,Search Engine,Me,Maybe,Product Information,Product catalog,Very satisfied,Yes,Very Safe,5,Yes,5,5
+7/2/2022 15:50:08,Sonia Rahman,36,Male,Friend,Me,Yes,Buying Products,Product information,Very satisfied,Yes,Very Safe,5,Maybe,5,5
+7/2/2022 15:50:42,Razia Binte Abdur Rashid,53,Female,Social Media,Other,Yes,About Company,Product catalog,Dissatisfied,Yes,Neutral,4,Yes,5,5
+7/2/2022 15:51:07,Md Emdad Khan,38,Male,Search Engine,Me,Yes,Product Information,Product catalog,Very satisfied,Yes,Safe,5,Yes,5,5
+7/2/2022 15:51:32,Md Manik,18,Male,Search Engine,Me,Maybe,Buying Products,Product information,Very satisfied,Yes,Very Safe,5,Maybe,5,5
+7/2/2022 15:52:09,Koushik Hassain,36,Male,Social Media,Friend,Yes,Buying Products,Product information,Satisfied,No,Not Safe,4,Yes,5,5
+7/2/2022 15:52:35,Mafruha Mayesha,56,Female,Newspaper,Colleague,Yes,Product Information,Payment experience,Dissatisfied,Yes,Safe,4,Yes,5,5
+7/2/2022 15:53:04,Md. Abu Hasan,26,Male,Search Engine,Me,Yes,Buying Products,Product catalog,Very satisfied,Yes,Safe,5,Yes,5,5
+7/2/2022 15:53:30,Prodip Debnath,45,Male,Social Media,Parent,Yes,About Company,Product information,Very satisfied,Yes,Very Safe,5,Yes,5,5
+7/2/2022 15:54:02,Sharmin Shimu,39,Female,Social Media,Boss,Yes,Buying Products,Shipping options,Neutral,No,Safe,5,Yes,5,5
+7/2/2022 15:57:18,Ranja chakraborty ,25,Female,Newspaper,Parent,Yes,Buying Products,Product information,Neutral,No,Very Safe,2,No,4,5
+7/2/2022 15:58:34,rima bhattacharjee,38,Female,Newspaper,Colleague,Maybe,About Company,Product information,Very satisfied,Yes,Very Unsafe,5,Yes,5,5
+7/2/2022 15:59:09,antello gomes,26,Female,Friend,Friend,Maybe,Contact Information,Product catalog,Very satisfied,Yes,Safe,5,Yes,5,5
+7/2/2022 15:59:49,pratik chakraborty ,29,Male,Social Media,Friend,Maybe,Contact Information,Product information,Neutral,Maybe,Very Safe,4,Yes,5,4
+7/2/2022 16:03:29,Sonia Akter,32,Female,Newspaper,Parent,No,Buying Products,Pricing,Satisfied,Yes,Very Safe,4,Yes,4,3
+7/2/2022 16:04:05,soma dey,20,Female,Newspaper,Friend,Maybe,Product Information,Product information,Very satisfied,Yes,Safe,5,Yes,4,5
+7/2/2022 16:04:15,Abraham Asif,23,Male,TV,Me,Yes,About Company,Product catalog,Very satisfied,No,Neutral,4,No,3,1
+7/2/2022 16:04:46,picku ganguly,26,Male,Other,Boss,No,Buying Products,Product catalog,Very satisfied,Yes,Very Safe,5,Maybe,4,3
+7/2/2022 16:05:00,Ferdousi Rahman ,26,Female,Search Engine,Colleague,No,Product Information,Overall,Neutral,No,Not Safe,5,No,4,5
+7/2/2022 16:05:16,Shawon bonik,27,Male,TV,Friend,Yes,Contact Information,Pricing,Very dissatisfied,Yes,Very Safe,5,Yes,4,4
+7/2/2022 16:05:44,Durjoy Shawon,40,Male,Social Media,Boss,No,Contact Information,Shipping options,Satisfied,Yes,Very Safe,4,No,3,4
+7/2/2022 16:06:20,Khamoshiyaan,36,Female,Friend,Colleague,No,Buying Products,Pricing,Dissatisfied,Yes,Not Safe,5,Yes,5,3
+7/2/2022 16:07:07,Akash bonik,26,Male,Social Media,Friend,Maybe,Other,Shipping options,Neutral,Yes,Safe,2,Yes,1,3
+7/2/2022 16:07:11,Md Redoy,19,Male,Friend,Parent,No,Buying Products,Shipping options,Satisfied,Yes,Very Safe,5,Yes,5,2
+7/2/2022 16:07:58,Puja Debnath,28,Female,Search Engine,Boss,Yes,About Company,Payment experience,Very satisfied,Yes,Safe,5,Yes,5,4
+7/2/2022 16:08:33,anatara dutta ,25,Female,Social Media,Friend,Yes,Product Information,Product catalog,Satisfied,No,Very Safe,4,Yes,4,5
+7/2/2022 16:08:46,Md Raihan,45,Male,TV,Me,Yes,Product Information,Shipping options,Dissatisfied,Maybe,Safe,4,Yes,5,4
+7/2/2022 16:09:40,Swatilekha Ray,29,Female,Newspaper,Boss,No,Contact Information,Shipping options,Satisfied,No,Neutral,4,No,5,5
+7/2/2022 16:09:44,Shumi Chakrabarty ,28,Male,TV,Friend,Yes,Product Information,Product catalog,Very satisfied,Yes,Very Safe,4,Yes,5,4
+7/2/2022 16:09:52,Apurba Bhattacharjee Nick ,18,Male,Social Media,Friend,Maybe,Product Information,Online help,Very satisfied,Maybe,Safe,1,Maybe,1,1
+7/2/2022 16:10:20,Jannat Ikra,20,Female,Search Engine,Me,Maybe,Contact Information,Pricing,Satisfied,No,Not Safe,5,Yes,5,4
+7/2/2022 16:11:00,Radha Rani,35,Female,Search Engine,Colleague,No,About Company,Online help,Neutral,Maybe,Not Safe,4,Yes,5,3
+7/2/2022 16:11:34,Mou Das,17,Female,Friend,Boss,Yes,Contact Information,Payment experience,Satisfied,Yes,Neutral,5,No,5,4
+7/2/2022 16:12:18,Md Haraj Ali,37,Male,Newspaper,Colleague,No,Buying Products,Overall,Dissatisfied,Yes,Neutral,5,Yes,5,5
+7/2/2022 16:13:00,Shreya Biswas,31,Female,Social Media,Parent,No,Contact Information,Product catalog,Satisfied,No,Not Safe,5,Yes,5,1
+7/2/2022 16:13:49,Mahin Khan,25,Male,Search Engine,Parent,Yes,Product Information,Payment experience,Satisfied,No,Not Safe,4,Yes,5,3
+7/2/2022 16:14:39,Rina Khanam,18,Female,Friend,Boss,Maybe,About Company,Online help,Dissatisfied,Yes,Neutral,5,Yes,5,4
+7/2/2022 16:15:15,Shamim Ahmed ,48,Male,TV,Me,Yes,Contact Information,Product catalog,Neutral,Yes,Very Safe,4,Yes,4,3
+7/2/2022 16:15:53,Atikur Rahman ,32,Male,Search Engine,Colleague,No,About Company,Online help,Very satisfied,No,Neutral,5,No,3,4
+7/2/2022 16:16:51,Mousumi Das,26,Female,Social Media,Colleague,No,About Company,Pricing,Satisfied,No,Neutral,5,Yes,5,4
+7/2/2022 16:17:42,Sk Nurhamid,29,Male,Search Engine,Parent,No,Buying Products,Overall,Very dissatisfied,No,Neutral,3,No,3,5
+7/2/2022 16:19:38,Babu Halder,40,Male,Newspaper,Other,Yes,Product Information,Product information,Neutral,Maybe,Not Safe,5,Maybe,5,5
+7/2/2022 16:20:14,Joy chakraborty,22,Male,Friend,Me,Yes,Product Information,Shipping options,Satisfied,Yes,Safe,1,Yes,1,1
+7/2/2022 16:21:46,Masum Islam,25,Male,Social Media,Boss,No,Contact Information,Payment experience,Neutral,No,Neutral,5,No,5,4
+7/2/2022 16:22:40,Israt Jahan ,20,Female,Social Media,Other,No,Contact Information,Shipping options,Satisfied,Yes,Very Safe,4,Yes,4,4
+7/2/2022 16:23:41,Subham Hudait,23,Female,Social Media,Parent,No,About Company,Product information,Dissatisfied,No,Neutral,5,No,5,5
+7/2/2022 16:24:31,Tonmoy Das,20,Male,Friend,Parent,Yes,Buying Products,Shipping options,Neutral,Yes,Neutral,5,No,4,5
+7/2/2022 16:26:57,Warisha Badhon,24,Female,Social Media,Other,Yes,Contact Information,Product information,Dissatisfied,No,Very Safe,2,No,3,5
+7/2/2022 16:28:00,Ritu Das,17,Female,Other,Me,No,About Company,Online help,Neutral,No,Very Safe,5,Yes,5,4
+7/2/2022 16:51:02,Sukanta,20,Male,Social Media,Friend,Yes,Product Information,Product information,Very satisfied,Yes,Safe,1,Yes,2,2
+7/2/2022 16:52:42,Liton,33,Male,Other,Boss,No,Buying Products,Product information,Satisfied,Yes,Safe,4,No,3,1
+7/2/2022 16:53:44,Durjoy,20,Male,Newspaper,Friend,No,Buying Products,Product catalog,Very satisfied,No,Very Safe,2,No,3,1
+7/2/2022 16:54:44,Mukta,25,Female,Friend,Friend,Yes,Product Information,Payment experience,Neutral,Yes,Neutral,3,No,1,5
+7/2/2022 16:56:11,Sujon,23,Male,Social Media,Friend,Yes,Buying Products,Product information,Neutral,No,Safe,4,Yes,3,2
+7/2/2022 18:04:38,dev roy,32,Male,Newspaper,Friend,Yes,Product Information,Product catalog,Very satisfied,Maybe,Neutral,5,Yes,5,5
+7/2/2022 18:05:23,arindam pramamik,40,Male,Friend,Parent,Yes,Other,Online help,Very dissatisfied,Yes,Safe,5,Yes,3,4
+7/2/2022 18:07:22,Radha bhatt,23,Female,Search Engine,Colleague,Maybe,Product Information,Payment experience,Satisfied,Maybe,Not Safe,5,Yes,5,5
+7/2/2022 18:08:06,anjani thakur ,34,Female,Friend,Me,Yes,Buying Products,Shipping options,Very satisfied,Maybe,Not Safe,4,Maybe,3,4
+7/2/2022 20:24:13,laxmi chowdhuri,20,Female,Search Engine,Boss,Yes,Contact Information,Payment experience,Very dissatisfied,Maybe,Safe,5,Yes,3,4
+7/2/2022 20:24:47,radhika bhatt,30,Female,Other,Colleague,Maybe,About Company,Product catalog,Satisfied,Yes,Very Safe,5,Yes,5,4
+7/2/2022 20:25:38,Bablu gomes,34,Male,Newspaper,Parent,Yes,Other,Product information,Very satisfied,Yes,Not Safe,4,Yes,4,4
+7/2/2022 20:26:14,priya bose,23,Female,TV,Friend,Maybe,Buying Products,Pricing,Very satisfied,Maybe,Not Safe,3,Yes,2,2
+7/2/2022 20:26:53,madhuja debi,28,Female,Social Media,Friend,Maybe,Other,Online help,Dissatisfied,Yes,Safe,2,Yes,5,5
